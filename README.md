@@ -5,7 +5,7 @@
   <img src="images/leetcode-repo-logo.png" width="350" height="200">
 </p>
 <p align="center">
-  <a href="www.linkedin.com/in/aadityaparmar">LinkedIn</a> | <a href="https://twitter.com/a1dtya">X</a> |
+  <a href="www.linkedin.com/in/aadityaparmar">Connect with me on LinkedIn</a> | <a href="https://twitter.com/a1dtya">Connect with me on X ( twitter) </a> 
 </p>
 This repository contains LeetCode resources which are useful during interview preparation.
 
